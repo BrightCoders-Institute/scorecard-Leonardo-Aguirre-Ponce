@@ -8,18 +8,18 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Leonardo Aguirre # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: leo.agponc@gmail.com
+  phone: 312 152 5633
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
+  linkedin: Leonardo Aguirre Ponce # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: Leonardo-Aguirre-Ponce # solo tu nombre de usuario en github o dejar en blanco
+  gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
   twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
@@ -35,7 +35,7 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Adaptability
       link: # dejar en blanco
 
     - item: Effective communication
@@ -50,17 +50,26 @@ sidebar:
     - item: Time and Task Management
       link: # dejar en blanco
 
+    - item: Creativity
+      link: # dejar en blanco
+      
+    - item: Openness to criticism
+      link: # dejar en blanco
+      
+    - item: Organizational
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    As a Software Engineering student with a deep passion for technology and design, I have a keen interest in web, mobile and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2019 - 2023
     details: |
       Facultad de Telemática - Software Engineer.
 
