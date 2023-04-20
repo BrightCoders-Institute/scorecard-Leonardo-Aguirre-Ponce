@@ -16,7 +16,7 @@ sidebar:
   email: leo.agponc@gmail.com
   phone: 312 152 5633
   website: # No agregar http://
-  linkedin: Leonardo Aguirre Ponce # solo tu nombre de usuario de linkedin o dejar en blanco
+  linkedin: leo-ap # solo tu nombre de usuario de linkedin o dejar en blanco
   github: Leonardo-Aguirre-Ponce # solo tu nombre de usuario en github o dejar en blanco
   gitlab: Leonardo-Aguirre-Ponce # solo tu nombre de usuario en gitlab o dejar en blanco
   bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
@@ -63,7 +63,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Software Engineering student with a deep passion for technology and design, I have a keen interest in web, mobile and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    As a Software Engineering student with a deep passion for technology and design, I have a keen interest in web, mobile, frontend programming and the UX/UI. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -72,12 +72,6 @@ educationcomplete:
     time: 2019 - 2023
     details: |
       Facultad de Telemática - Software Engineer.
-
-  - degree: Python Certification
-    university: Udemy
-    time: 2022
-    details: |
-      300 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -90,19 +84,12 @@ experiences:
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
+  - role: Digital Art
+    time: Feb 2022 - Nov 2022
     company: BrightCoders
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
-
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
-    details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      Vectorization of images and graphics about containment of hemorrhages, the work of the first 
+      responder, First Aid and Civil Protection, for informative videos and infographics.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
