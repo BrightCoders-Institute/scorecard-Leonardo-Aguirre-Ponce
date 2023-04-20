@@ -18,9 +18,9 @@ sidebar:
   website: # No agregar http://
   linkedin: Leonardo Aguirre Ponce # solo tu nombre de usuario de linkedin o dejar en blanco
   github: Leonardo-Aguirre-Ponce # solo tu nombre de usuario en github o dejar en blanco
-  gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
+  gitlab: Leonardo-Aguirre-Ponce # solo tu nombre de usuario en gitlab o dejar en blanco
   bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  twitter: '@TheEndLight' # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,7 +28,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -115,19 +115,34 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 60%
+      level-name: Competent
+      time: 1 year
 
     - name: React
       level: 40%
       level-name: Advanced beginner
-      time: 1 year
+      time: 3 months
 
     - name: React Native
+      level: 60%
+      level-name: Competent
+      time: 6 months
+      
+    - name: CSS
       level: 80%
       level-name: Proficient
-      time: 2+ years
+      time: 2 years
+      
+    - name: HTML
+      level: 80%
+      level-name: Proficient
+      time: 2 years
+      
+    - name: Linux
+      level: 20%
+      level-name: Novice
+      time: 3 months
 
 # NO MODIFICAR
 footer: >
