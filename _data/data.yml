@@ -76,7 +76,7 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Dic 2022 - Present
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -101,9 +101,9 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Javascript
-      level: 60%
-      level-name: Competent
+    - name: JavaScript
+      level: 50%
+      level-name: Advanced beginner
       time: 1 year
 
     - name: React
