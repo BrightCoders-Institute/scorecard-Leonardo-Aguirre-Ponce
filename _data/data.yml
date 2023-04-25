@@ -107,23 +107,23 @@ skills:
       time: 1 year
 
     - name: React
-      level: 40%
-      level-name: Advanced beginner
+      level: 30%
+      level-name: Novice
       time: 3 months
 
     - name: React Native
-      level: 60%
-      level-name: Competent
+      level: 40%
+      level-name: Advanced beginner
       time: 6 months
       
     - name: CSS
-      level: 80%
-      level-name: Proficient
+      level: 50%
+      level-name: Advanced beginner
       time: 2 years
       
     - name: HTML
-      level: 80%
-      level-name: Proficient
+      level: 50%
+      level-name: Advanced beginner
       time: 2 years
       
     - name: Linux
