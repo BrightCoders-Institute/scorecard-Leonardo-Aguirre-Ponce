@@ -63,7 +63,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Software Engineering student with a deep passion for technology and design, I have a keen interest in web, mobile, frontend programming and the UX/UI. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    As a Software Engineering student with a deep passion for technology and design, I have a strong interest in web, mobile, and frontend programming, as well as UX/UI. Throughout my academic journey, I have gained experience in various languages and technologies, allowing me to develop diverse technical skills in programming, as well as interpersonal skills in collaborating with others. I thrive in collaborative environments as it fosters learning, creativity, and problem-solving skills, ultimately improving people's quality of life. During my spare time, I enjoy drawing, playing video games, and exercising, as it helps me maintain a healthy balance both physically and mentally.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -86,7 +86,7 @@ experiences:
 
   - role: Digital Art
     time: Feb 2022 - Nov 2022
-    company: BrightCoders
+    company: Universidad de Colima, Mexico
     details: |
       Vectorization of images and graphics about containment of hemorrhages, the work of the first 
       responder, First Aid and Civil Protection, for informative videos and infographics.
